@@ -15,7 +15,7 @@ If you found any in the script, please report them in Issues.
 Changes:
 1. Fixed Mid-Air swing cancel (may still occur if the entered speed is low);
 
-2. Now the Swing speed is defined by the literal value entered, and not by multiplication, so now the default value that already comes in the text box is "80";
+2. Now the Swing speed is defined by the literal value entered, and not by multiplication, so now the default value that already comes in the text box is "1" (the best speed numbers is 7 - 10;
 
 3. Improved the stability of the swings, now they are more fluid, being easier to hit;
 
