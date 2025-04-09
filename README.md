@@ -13,7 +13,7 @@ If you found any in the script, please report them in Issues.
 # Updates
 # Lakiz V3
 Changes:
-1. Fixed Mid-Air swing cancel (may still occur if the entered speed is low;
+1. Fixed Mid-Air swing cancel (may still occur if the entered speed is low);
 
 2. Now the Swing speed is defined by the literal value entered, and not by multiplication, so now the default value that already comes in the text box is "80";
 
